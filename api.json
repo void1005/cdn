@@ -1,8 +1,8 @@
 {
-  docs: {
-    version: {
-      core: '111',
-      vue: '222'
+  "docs": {
+    "version": {
+      "core": "111",
+      "vue": "222"
     }
   }
 }
